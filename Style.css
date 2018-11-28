@@ -1,0 +1,81 @@
+nav
+{
+    border: solid white 2px;
+}
+
+h1
+{
+    color: white;
+}
+
+
+
+#sectiona
+{
+    border: solid white 2px;
+}
+
+#sectionz
+{
+    border: solid white 2px;
+}
+
+#booknbag
+{
+    position: absolute;
+    right: 0;
+    max-width: 100%;
+}
+
+p
+{
+    color:white;
+}
+
+button
+{
+    background-color:blue;
+    color:white;
+    padding: 12px 12px 12px 12px
+}
+
+
+img
+{
+    z-index: -1;
+    position: absolute;
+    left: 0%;
+    padding-bottom: 100%;
+}
+
+main
+{
+    overflow: hidden;
+    display: block;
+    position: relative;
+    padding-bottom: 100%; 
+    flex: auto;
+    max-width: 100%;
+}
+
+html,body
+{
+    height: 100%;
+    position: relative;
+
+  
+}
+
+#section1
+{
+    background-color: black;
+    width: 100%;
+}
+
+footer
+{
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    border: solid white 2px;
+}
